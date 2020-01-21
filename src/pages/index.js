@@ -7,12 +7,14 @@ import "normalize.css"
 // components
 import Header from "../components/header"
 import Banner from "../components/banner"
+import AboutBlurb from "../components/aboutBlurb"
 
 const IndexPage = () => {
   return (
     <div>
       <Header />
       <Banner />
+      <AboutBlurb />
     </div>
   )
 }
