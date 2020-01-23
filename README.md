@@ -1,6 +1,6 @@
 # Odunsi: Artist Page
 
-[View on Netlify](https://festive-liskov-be709e.netlify.com/)
+https://festive-liskov-be709e.netlify.com/
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/ec03f08e-88a5-4dac-b3e0-4fdb9f0531fe/deploy-status)](https://app.netlify.com/sites/festive-liskov-be709e/deploys)
 
